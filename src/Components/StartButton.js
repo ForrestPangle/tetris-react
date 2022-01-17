@@ -1,3 +1,5 @@
 import React from "react";
 
-const 
+const StartButton = ({ callback }) => <div>Start Game</div>;
+
+export default StartButton;
