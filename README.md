@@ -6,3 +6,4 @@ My inspiration for making this app came from the first thing I ever did with any
 
 
 or nevermind then. guess not. 
+don't think i can make it out of this one. 
