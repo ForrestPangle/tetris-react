@@ -3,6 +3,7 @@
 or nevermind then. guess not. 
 don't think i can make it out of this one. 
 dont know what to do now, another project, assigmentds, idk?
+but ill do whatever it takes
 
 Tetris using react.js instead of vanilla js
 Adding in accounts and leaderboards hopefully before presentation day.
